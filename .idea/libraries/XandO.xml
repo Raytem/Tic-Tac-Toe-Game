@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="XandO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/XandO_jar/XandO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
